@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
 scikit-learn
 xgboost
 plotly
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+>>>>>>> e8d23feb98fad669179f8d9b5088118aec707dd3
 joblib
